@@ -13,4 +13,7 @@ export default defineConfig({
     }),
     tsconfigPaths(),
   ],
+  optimizeDeps: {
+    exclude: ['@radix-ui/react-slot', 'class-variance-authority', 'tailwind-merge', 'clsx']
+  }
 });
