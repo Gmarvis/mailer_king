@@ -2,7 +2,7 @@
 
 - 📖 [Remix docs](https://remix.run/docs)
 
-## Development
+# Development
 
 Run the dev server:
 
